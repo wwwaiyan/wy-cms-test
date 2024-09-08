@@ -12,7 +12,7 @@ if ( astra_wp_version_compare( '5.4.99', '>=' ) ) {
 }
 
 switch ( $astra_component_slug ) {
-
+ 
 	case 'copyright':
 		?>
 			<div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
