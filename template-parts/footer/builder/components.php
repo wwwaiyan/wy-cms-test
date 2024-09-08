@@ -16,7 +16,7 @@ switch ( $astra_component_slug ) {
 	case 'copyright':
 		?>
 			<div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
-				<?php do_action( 'astra_footer_copyright' ); ?>
+				<!-- <?php do_action( 'astra_footer_copyright' ); ?> -->
 			</div>
 		<?php
 		break;
